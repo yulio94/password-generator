@@ -27,3 +27,8 @@ password_generator-*.tar
 
 # Elixir ls
 .elixir_ls
+.idea
+
+
+# Iml files
+*.iml
