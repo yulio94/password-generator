@@ -76,10 +76,18 @@ Additionally, a minimum of one character per list is required to meet the passwo
 
 ## Detail Design
 
-### Solution one
+## Solution one
 
-### Solution two
+### Validate given password length
+
+Execute password generation function to validate if is an allowed length.
+
+If program ends you will receive a message in your terminal with a error detail.
+
+### Generate password
+
+If previous step works well, the password will be generated strong and printed.
 
 ## Considerations
 
-- Initially, The application is building in elixir for learning purposes.
+- Initially, The application is building in elixir for learning purpose.

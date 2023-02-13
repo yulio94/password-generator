@@ -26,7 +26,7 @@ defmodule PasswordGenerator do
         validate_password_length(false)
 
       true ->
-        nil
+        generator(length)
     end
   end
 
